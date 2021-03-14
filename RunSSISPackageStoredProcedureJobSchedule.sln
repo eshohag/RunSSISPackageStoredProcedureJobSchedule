@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StoredProcedure", "StoredProcedure", "{CE11CEE3-2D64-4673-87CB-A5C0428F4998}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\RunETLPackage_SP.sql = ..\..\..\Downloads\RunETLPackage_SP.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JobSchedule", "JobSchedule", "{0B3880B1-1BA3-4EFF-800D-EAD64EBDC85F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\JobSchedule.sql = ..\..\..\Downloads\JobSchedule.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{0EF67294-8663-48CA-871D-84CCE1BD175D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Pictures\AfterDatabaseDeploySSISPackage.png = ..\..\..\OneDrive\Pictures\AfterDatabaseDeploySSISPackage.png
+		..\..\..\OneDrive\Pictures\JobScheduleCreate.png = ..\..\..\OneDrive\Pictures\JobScheduleCreate.png
+		..\..\..\OneDrive\Pictures\SSISDB.png = ..\..\..\OneDrive\Pictures\SSISDB.png
+		..\..\..\OneDrive\Pictures\StoredProcedureCreate.png = ..\..\..\OneDrive\Pictures\StoredProcedureCreate.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF603E1-1E0B-4200-8059-715B8C4D1245}
+	EndGlobalSection
+EndGlobal
